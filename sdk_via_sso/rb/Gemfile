@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+
+# rbenv install 2.7.5
+# rbenv local 2.7.5
+
+gem 'aws-sdk-ec2', '~> 1.367'
